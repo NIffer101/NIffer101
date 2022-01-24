@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NIffer101
 - 👀 I’m interested in programming and system development
 - 🌱 I’m currently learning software development in KCA University
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my email kereuniffer@gmail.com
 
 <!---
